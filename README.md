@@ -21,4 +21,4 @@ CSS: Styling elements to create an appealing and user-friendly interface.
 
 JavaScript: Adding interactivity and dynamically updating content based on user input.
 
-API Integration: The application fetches weather data from a weather API (https://openweathermap.org/api) to provide accurate and up-to-date information. 
+API Integration: The application fetches weather data from a weather API (https://openweathermap.org/api) to provide accurate and up-to-date information.
