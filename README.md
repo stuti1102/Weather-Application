@@ -3,7 +3,7 @@ Weather Web Application- https://stuti1102.github.io/Weather-Web-Application/
 Welcome to the Weather Web Application project! This simple yet effective web application allows users to quickly check the current weather conditions of any city around the world. The project is built using HTML, CSS, and JavaScript, making it easy to understand and customize.
 
 
-Features-
+Features- 
 
 City-based Weather Information: Users can enter the name of a city, and the application will fetch and display real-time weather information for that location.
 
