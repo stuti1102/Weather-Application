@@ -11,7 +11,7 @@ Temperature Display: The application provides the current temperature of the spe
 
 Weather Condition: In addition to the temperature, the application also provides information about the current weather conditions in the specified city.
 
-Technologies Used-
+Technologies Used- 
 
 The project leverages the following technologies:
 
